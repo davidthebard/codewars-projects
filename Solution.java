@@ -1,3 +1,5 @@
+// http://www.codewars.com/kata/street-fighter-2-character-selection/java
+
 public class Solution{
   public static String[] streetFighterSelection(String[][] fighters, int[] position, String[] moves){
     String[] fighterList = new String[moves.length];
